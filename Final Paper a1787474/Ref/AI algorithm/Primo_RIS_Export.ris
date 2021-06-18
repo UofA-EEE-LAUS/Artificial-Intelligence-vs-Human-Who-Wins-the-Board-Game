@@ -1,0 +1,19 @@
+TY  - JOUR
+JF  - IEEE transactions on industrial electronics (1982)
+DO  - 10.1109/TIE.2019.2896235
+PB  - IEEE
+Y1  - 2019
+JA  - TIE
+VL  - 66
+ID  - cdi_ieee_primary_8645790
+N2  - Thanks to the advantages of high power density and the capacity of bidirectional power transfer, the CLLC resonant converter is widely used in the hybrid ac-dc microgrid as a dc transformer to interlink the ac and dc bus. Since the voltages of ac and dc bus are controlled by the energy management system, the CLLC resonant converter operates under open-loop condition, which means the switching frequency and duty cycle are fixed. As a result, in the hybrid ac-dc microgrid applications, for the CLLC converter, the main concern is not the voltage regulation but the conversion efficiency. This paper focuses on the total power loss optimization and the magnetic design of the CLLC resonant converter based on artificial intelligence (AI) algorithm. In order to optimize the total power loss, an AI algorithm-based two-stage optimal design method is proposed. In the first stage, the total power loss, including the driving loss, turn- off loss, conduction loss of the switches, the power loss of the resonant capacitances, and copper and core loss of the transformer are optimized by the proposed AI algorithm, GA+PSO, and the optimal parameters, including the leakage inductances ( L r 1 and L r 2 ), magnetizing inductance ( L m ), and resonant capacitances ( C r 1 and C r 2 ) are derived. In the second stage, the optimal leakage inductances and magnetizing inductance are realized by setting proper distance between the primary winding and the secondary winding ( d w ), and the thickness of the air gap ( d a ). As for the magnetic design, in this paper, the leakage inductances of a planar transformer are used as the resonant inductances. The equations of d w and d a to achieve the optimal leakage inductances and magnetizing inductance are derived. Both the proposed optimal design method and the equations of d w and d a are validated by simulations and experiments. 
+KW  - magnetic design ; Design methodology ; hybrid ac–dc microgrid ; Magnetic resonance ; Resonant converters ; Microgrids ; Artificial intelligence (AI) algorithm ; CLLC resonant converter ; Mathematical model ; Artificial intelligence ; Optimization ; total power loss
+EP  - 9767
+AU  - Zhao, Bin
+AU  - Zhang, Xin
+AU  - Huang, Jingjing
+SN  - 0278-0046
+SP  - 9756
+IS  - 12
+T1  - AI Algorithm-Based Two-Stage Optimal Design Methodology of High-Efficiency CLLC Resonant Converters for the Hybrid AC-DC Microgrid Applications
+ER  -

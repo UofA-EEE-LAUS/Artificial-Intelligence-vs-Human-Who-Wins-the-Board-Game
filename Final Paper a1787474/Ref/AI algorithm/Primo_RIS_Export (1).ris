@@ -1,0 +1,18 @@
+TY  - JOUR
+JF  - Computer applications in engineering education
+DO  - 10.1002/cae.21988
+PB  - Wiley Subscription Services, Inc
+Y1  - 2018
+VL  - 26
+ID  - cdi_gale_infotracacademiconefile_A555602429
+N2  - Artificial intelligence (AI) comprises a large spectrum of groups of algorithms: heuristic algorithms for search and planning, formal methods for representation of knowledge and reasoning, algorithms for machine learning and many more. Since these algorithms are complex, there is a need for a system which would enable their application both in everyday work and education processes. This paper describes a software system for learning AI algorithms called SAIL (Software System for AI Learning), which can be used both on computers and mobile devices. The paper gives examples of lab exercises and self‐study tasks that through graphic representation and detailed procedures help students master this area. Students can enter their examples into the system and obtain correct solutions for those examples. At any point when an example is simulated, a student can proceed to the next step or go back to the previous one, save the current simulation as a file, or print the detailed procedure as a task solution. SAIL helps lecturers go through the syllabus more efficiently and improve class material, while at the same time it helps students get a better grasp of implemented algorithms. SAIL can also benefit software engineers, who can select and simulate an adequate algorithm to solve a specific problem. The results of the SAIL system are verified within the AI introductory course at the School of Electrical Engineering University of Belgrade and they are presented in this paper. 
+KW  - knowledge representation and reasoning ; gamification in education ; intelligent systems ; search algorithms ; mobile learning ; Electrical engineering ; Computer programming ; Engineering schools ; Natural language interfaces ; Mobile applications ; College teachers ; Data mining ; Mobile devices ; Algorithms ; Language processing ; Machine learning ; Computational linguistics ; Artificial intelligence
+EP  - 1216
+AU  - Draskovic, Drazen
+AU  - Cvetanovic, Milos
+AU  - Nikolic, Bosko
+SN  - 1061-3773
+SP  - 1195
+IS  - 5
+T1  - SAIL—Software system for learning AI algorithms
+ER  -

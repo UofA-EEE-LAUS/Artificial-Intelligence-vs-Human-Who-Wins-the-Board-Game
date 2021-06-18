@@ -1,0 +1,20 @@
+UNDERSTANDING TIC TAC TOE USING MINIMAX ALGO:
+
+Consider:
+	player - the player who has the current turn to play
+	board - the array which stores the state of the game
+1. Set two variables:
+	ai - for AI player; opponent - enemy;
+1. A function to find if a given state is winning-> isWinning(board,player)
+2. A function to find the available choices -> GetAvailableMoves(board)
+3. Minimax function - Minimax(board,player) as:
+
+	Minimax()
+	{
+		if(opponent wins)
+			return -10
+		else if(AI wins)
+			return 10
+		else if(game is draw (no available moves))
+			return 0	
+	}
